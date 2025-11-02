@@ -1,0 +1,15 @@
+{
+  "name": "factorio-blueprint-builder",
+  "description": "Build and create Factorio blueprints with Claude Code. Helps design factory layouts, generate blueprint strings, and understand the Factorio blueprint format.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Loren Carvalho"
+  },
+  "repository": "https://github.com/yourusername/factorio-blueprint-builder",
+  "keywords": [
+    "factorio",
+    "blueprints",
+    "gaming",
+    "automation"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "factorio-marketplace",
+  "owner": {
+    "name": "Loren Carvalho"
+  },
+  "plugins": [
+    {
+      "name": "factorio-blueprint-builder",
+      "source": "./factorio-blueprint-builder"
+    }
+  ]
+}
